@@ -1,0 +1,7 @@
+.circle {
+    border: 2px solid lightpink;
+    background-color:lightskyblue;
+    height: 50px;
+    border-radius:50%;
+    width: 50px;
+}

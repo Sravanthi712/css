@@ -1,0 +1,188 @@
+*{
+  	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+}
+.xyz{
+	height: 500px;
+	width: 700px;
+	background-color: grey;
+	border: 1px solid black;
+}
+.a{
+	height: 40px;
+	width: 700px;
+	background-color: white;
+	border: 5px solid white;
+	
+}
+.b{
+	height: 450px;
+	width: 700px;
+	background-color:gray;
+	border: 5px solid white;
+	
+}
+.c{
+	height: 400px;
+	width: 200px;
+	background-color: white;
+	float: left;
+	border: 5px solid white;
+	margin: 20px 20px 40px 20px;
+	
+}
+.d{
+	height: 400px;
+	width: 425px;
+	background-color: white;
+	float: left;
+	border: 5px solid white;
+	margin: 10px 10px 10px 10px;
+	
+}
+.e{
+	height: 190px;
+	width: 400px;
+	background-color: white;
+	border: 5px solid white;
+	margin: 10px 10px 10px 10px;
+	
+}
+.f{
+	height: 170px;
+	width: 400px;
+	background-color: white;
+	border: 5px solid white;
+	margin: 10px 10px 10px 10px;
+	
+}
+.b1{
+	font-size: 20px;
+	background-color: green;
+	color: white;
+}
+.b2{
+	font-size: 20px;
+	background-color: skyblue;
+	color: white;
+}
+
+.b3{
+	font-size: 20px;
+	background-color: skyblue;
+	color: white;
+}
+
+.b4{
+	font-size: 20px;
+	background-color: skyblue;
+	color: white;
+}
+.b5{
+	font-size: 20px;
+	background-color: red;
+	color: white;
+}
+h1{
+	font-size: 30px;
+	color: black;
+	font-family: cursive;
+}
+i{
+	font-size: 50px;
+}
+h3{
+	font-size: 20px;
+	color: black;
+}
+.b6{
+	font-size: 15px;
+	background-color: blue;
+}
+.b7{
+	font-size: 15px;
+	background-color: white;
+}
+#abc{
+	font-size: 10px;
+	margin-right: 200px;
+
+}
+.z{
+	font-size: 10px;
+	margin-left: 2px;
+}
+.y{
+	font-size: 15px;
+	margin-right: 80px;
+}
+.k{
+	font-size: 20px;
+	background-color: blue;
+	color: white;
+}
+.w{
+	font-size: 20px;
+	margin-right: 250px;
+
+
+}
+.v{
+	font-size: 15px;
+	text-align: left;
+
+
+}
+.q{
+	font-size: 15px;
+	text-align: left;
+
+
+}
+.m{
+	font-size: 15px;
+	
+	text-align: left;
+
+
+}
+.o{
+	font-size: 15px;
+	text-align: left;
+
+
+}
+#bye1{
+     background-color: blue;
+     width:85%;
+     height: 2px;
+     border: none;
+
+}
+#bye2{
+     background-color: red;
+     width:77%;
+     height: 2px;
+     border: none;
+}
+#bye3{
+     background-color: green;
+     width:90%;
+     height: 2px;
+     border: none;
+}
+#bye4{
+     background-color: yellow;
+     width:65%;
+     height: 2px;
+     border: none;
+}
+.p1{
+	font-size: 8px;
+	margin-left: 40px;
+}
+.p2{
+	font-size: 8px;
+	padding-left: 60px;
+}

@@ -1,0 +1,32 @@
+#abc{
+	font-size: 50px;
+	font-family: cursive;
+	color: red;
+}
+p{
+	font-size: 30px;
+	color: yellow;
+}
+div{
+	height: 100px;
+	width: 100px;
+	background: blue;
+}
+*{
+	font-size: 45px;
+	color: green;
+	font-family: cursive;
+	background-color: hotpink;
+}
+input[type="text"]{
+	color: reded;
+}
+input[type="number"]{
+	color: yellow;
+}
+input[type="password"]{
+	color: blue;
+}
+input[type="email"]{
+	color: pink;
+}
